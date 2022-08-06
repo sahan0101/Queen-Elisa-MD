@@ -32,25 +32,26 @@ global.APIKeys = {
 }
 
 //other
-global.owner = ['94715166712'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
-global.pemilik = ['94715166712'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94715166712'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.owner = ['94764132894'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
+global.pemilik = ['94764132894'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['94764132894'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
 global.pengguna = 'Dark Maker' // Your name ඔබේ නම 
-global.botnma = '💃 𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐁𝐨𝐭 💃' // Your bot name , ඔබගෙ බොට්ගේ නම 
-global.ownernma = '𝓓𝓪𝓻𝓴 𝓜𝓪𝓴𝓮𝓻' //ownernama,ownername
-global.packname = 'Queen Elisa Sticker' // Sticker package name 
-global.author = 'Dark Maker' // Sticker Autor name 
+global.botnma = '☠️ 𝐌𝐑.𝐒𝐇𝐄𝐍𝐔𝐖𝐀 𝐁𝐎𝐓 ☠️' // Your bot name , ඔබගෙ බොට්ගේ නම 
+global.ownernma = '𝐌𝐑.𝐒𝐇𝐄𝐍𝐔' //ownernama,ownername
+global.packname = '𝐌𝐑.𝐒𝐇𝐄𝐍𝐔 𝐒𝐓𝐈𝐂𝐊𝐄𝐑' // Sticker package name 
+global.author = '𝐌𝐑.𝐒𝐇𝐄𝐍𝐔 𝐌𝐀𝐊𝐄𝐑' // Sticker Autor name 
 global.sessionName = 'session'
 global.prefa = ['#','!','/',''] 
 global.sp = '🔵'
-// Alive massage , ඔබේ බොගේ alive massage  එක මෙහි ඇති ` ` මෙම ලකුනු ඇතුලේ ඔබට අවශ්‍ය ඔනිම දෙයක් Type කරන්න.💃
+// Alive massage , ඔබේ බොගේ alive massage  එක මෙහි ඇති `මැරිල කියලද හිතුවෙ නෑ නෑ මැරිල නෑ තාම ඉන්නව  ` මෙම ලකුනු ඇතුලේ ඔබට අවශ්‍ය ඔනිම දෙයක් Type කරන්න.💃
 global.alivelogo = `https://telegra.ph/file/1a2dee71baa975091620d.jpg`
 global.alive =`Hello i am alive now
 
 Download song type .yt 
 Thanks fro using...`
 // Welcome massage  ඔබට කැමති නම් මෙයට ඔබෙ welcome massage  එක යොදන්න 
-global.welcome = `
+global.welcome = `𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐌𝐘 𝐆𝐑𝐎𝐔𝐏 
+𝐈'𝐌 𝐘𝐎𝐔𝐑 𝐂𝐇𝐀𝐓𝐁𝐎𝐓 𝐌𝐑.𝐒𝐇𝐄𝐍𝐔
 🌀 Thanks Fro using sl zim bot
 ✾ Some bugs fixing
 😼♥️
